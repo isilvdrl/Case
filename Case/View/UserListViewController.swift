@@ -2,7 +2,7 @@
 //  UserListViewController.swift
 //  Case
 //
-//  Created by IŞIL VARDARLI on 5.02.2025.
+//  Created by IŞIL VARDARLI on 6.02.2025.
 //
 
 import Foundation
@@ -48,3 +48,5 @@ class UserListViewController: UIViewController, UITableViewDataSource, UITableVi
         navigationController?.pushViewController(detailVC, animated: true)
     }
 }
+
+

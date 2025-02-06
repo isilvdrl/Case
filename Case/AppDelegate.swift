@@ -2,14 +2,13 @@
 //  AppDelegate.swift
 //  Case
 //
-//  Created by IŞIL VARDARLI on 4.02.2025.
+//  Created by IŞIL VARDARLI on 6.02.2025.
 //
 
 import UIKit
 
 @main
 class AppDelegate: UIResponder, UIApplicationDelegate {
-
 
 
     func application(_ application: UIApplication, didFinishLaunchingWithOptions launchOptions: [UIApplication.LaunchOptionsKey: Any]?) -> Bool {
